@@ -7,4 +7,4 @@ This project is hosted at: https://memory-quizlet.herokuapp.com/
 A responsive web application, targeted at elderly suffering from Alzheimers, which contains: 
 - Flash Cards
 - Multiple Choice Quiz
-- Reveals Final Score Upon Completion
+- Final Score Upon Completion
